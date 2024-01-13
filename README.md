@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Enock Sang, @enockkim
 - 👀 I’m interested in all things code, ie IoT, AI, Machine Learning 
-- 🌱 I’m currently learning Blazor and RabbitMQ.
+- 🌱 I’m currently learning Docker and Flowise - AI.
 - 💞️ I’m looking to collaborate on IoT projects.
 - 📫 How to reach me: enocksang@hotmail.com
 
